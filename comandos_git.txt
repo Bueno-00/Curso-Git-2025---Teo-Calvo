@@ -1,3 +1,4 @@
 git init . -> cria um repositorio git na pasta atual
 git status -> mostra o status do trabalho
 git commit -m "msg" -> faz commmit do que estava para ser commitado 
+git diff "nome do arquivo" -> ve tudo q foi feito anteriormente no arquivo
