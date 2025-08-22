@@ -1,3 +1,4 @@
 ls -> Lista de arquivos
 cd -> Move entre diretorios
 pwd -> Mostra o caminho da pasta/arquivo que estamos
+cat -> exibe o conteudo dentro do arquivo
